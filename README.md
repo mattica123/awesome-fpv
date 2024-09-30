@@ -89,5 +89,9 @@
 * [AliExpress](https://aliexpress.com/)
 * [Banggood](https://www.banggood.com/)
 
+### Swiss
+
+* [DroneFactory](https://www.dronefactory.ch/)
+
 
 Contributions are welcome! 🚀
